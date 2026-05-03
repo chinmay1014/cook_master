@@ -1,0 +1,6 @@
+{
+  "name": "Master_Cook",
+  "description": "An AI-powered recipe generator. Find recipes by name, by uploading a picture of a dish, or even ask for alternative recipes if you\u0027re missing ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
